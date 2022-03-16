@@ -1,0 +1,16 @@
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-1-CreatLinkList\Uc-1-CreatLinkList\bin\Debug\net5.0\Uc-1-CreatLinkList.exe
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-1-CreatLinkList\Uc-1-CreatLinkList\bin\Debug\net5.0\Uc-1-CreatLinkList.deps.json
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-1-CreatLinkList\Uc-1-CreatLinkList\bin\Debug\net5.0\Uc-1-CreatLinkList.runtimeconfig.json
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-1-CreatLinkList\Uc-1-CreatLinkList\bin\Debug\net5.0\Uc-1-CreatLinkList.runtimeconfig.dev.json
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-1-CreatLinkList\Uc-1-CreatLinkList\bin\Debug\net5.0\Uc-1-CreatLinkList.dll
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-1-CreatLinkList\Uc-1-CreatLinkList\bin\Debug\net5.0\Uc-1-CreatLinkList.pdb
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-1-CreatLinkList\Uc-1-CreatLinkList\obj\Debug\net5.0\Uc-1-CreatLinkList.csproj.AssemblyReference.cache
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-1-CreatLinkList\Uc-1-CreatLinkList\obj\Debug\net5.0\Uc-1-CreatLinkList.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-1-CreatLinkList\Uc-1-CreatLinkList\obj\Debug\net5.0\Uc-1-CreatLinkList.AssemblyInfoInputs.cache
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-1-CreatLinkList\Uc-1-CreatLinkList\obj\Debug\net5.0\Uc-1-CreatLinkList.AssemblyInfo.cs
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-1-CreatLinkList\Uc-1-CreatLinkList\obj\Debug\net5.0\Uc-1-CreatLinkList.csproj.CoreCompileInputs.cache
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-1-CreatLinkList\Uc-1-CreatLinkList\obj\Debug\net5.0\Uc-1-CreatLinkList.dll
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-1-CreatLinkList\Uc-1-CreatLinkList\obj\Debug\net5.0\refint\Uc-1-CreatLinkList.dll
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-1-CreatLinkList\Uc-1-CreatLinkList\obj\Debug\net5.0\Uc-1-CreatLinkList.pdb
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-1-CreatLinkList\Uc-1-CreatLinkList\obj\Debug\net5.0\Uc-1-CreatLinkList.genruntimeconfig.cache
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-1-CreatLinkList\Uc-1-CreatLinkList\obj\Debug\net5.0\ref\Uc-1-CreatLinkList.dll

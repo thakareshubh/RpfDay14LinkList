@@ -1,0 +1,16 @@
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-4-InsertElementInLinkList\Uc-4-InsertElementInLinkList\bin\Debug\net5.0\Uc-4-InsertElementInLinkList.exe
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-4-InsertElementInLinkList\Uc-4-InsertElementInLinkList\bin\Debug\net5.0\Uc-4-InsertElementInLinkList.deps.json
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-4-InsertElementInLinkList\Uc-4-InsertElementInLinkList\bin\Debug\net5.0\Uc-4-InsertElementInLinkList.runtimeconfig.json
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-4-InsertElementInLinkList\Uc-4-InsertElementInLinkList\bin\Debug\net5.0\Uc-4-InsertElementInLinkList.runtimeconfig.dev.json
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-4-InsertElementInLinkList\Uc-4-InsertElementInLinkList\bin\Debug\net5.0\Uc-4-InsertElementInLinkList.dll
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-4-InsertElementInLinkList\Uc-4-InsertElementInLinkList\bin\Debug\net5.0\Uc-4-InsertElementInLinkList.pdb
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-4-InsertElementInLinkList\Uc-4-InsertElementInLinkList\obj\Debug\net5.0\Uc-4-InsertElementInLinkList.csproj.AssemblyReference.cache
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-4-InsertElementInLinkList\Uc-4-InsertElementInLinkList\obj\Debug\net5.0\Uc-4-InsertElementInLinkList.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-4-InsertElementInLinkList\Uc-4-InsertElementInLinkList\obj\Debug\net5.0\Uc-4-InsertElementInLinkList.AssemblyInfoInputs.cache
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-4-InsertElementInLinkList\Uc-4-InsertElementInLinkList\obj\Debug\net5.0\Uc-4-InsertElementInLinkList.AssemblyInfo.cs
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-4-InsertElementInLinkList\Uc-4-InsertElementInLinkList\obj\Debug\net5.0\Uc-4-InsertElementInLinkList.csproj.CoreCompileInputs.cache
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-4-InsertElementInLinkList\Uc-4-InsertElementInLinkList\obj\Debug\net5.0\Uc-4-InsertElementInLinkList.dll
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-4-InsertElementInLinkList\Uc-4-InsertElementInLinkList\obj\Debug\net5.0\refint\Uc-4-InsertElementInLinkList.dll
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-4-InsertElementInLinkList\Uc-4-InsertElementInLinkList\obj\Debug\net5.0\Uc-4-InsertElementInLinkList.pdb
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-4-InsertElementInLinkList\Uc-4-InsertElementInLinkList\obj\Debug\net5.0\Uc-4-InsertElementInLinkList.genruntimeconfig.cache
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-4-InsertElementInLinkList\Uc-4-InsertElementInLinkList\obj\Debug\net5.0\ref\Uc-4-InsertElementInLinkList.dll

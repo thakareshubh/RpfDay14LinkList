@@ -1,0 +1,16 @@
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-2-AddingTwoElement\Uc-2-AddingTwoElement\bin\Debug\net5.0\Uc-2-AddingTwoElement.exe
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-2-AddingTwoElement\Uc-2-AddingTwoElement\bin\Debug\net5.0\Uc-2-AddingTwoElement.deps.json
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-2-AddingTwoElement\Uc-2-AddingTwoElement\bin\Debug\net5.0\Uc-2-AddingTwoElement.runtimeconfig.json
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-2-AddingTwoElement\Uc-2-AddingTwoElement\bin\Debug\net5.0\Uc-2-AddingTwoElement.runtimeconfig.dev.json
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-2-AddingTwoElement\Uc-2-AddingTwoElement\bin\Debug\net5.0\Uc-2-AddingTwoElement.dll
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-2-AddingTwoElement\Uc-2-AddingTwoElement\bin\Debug\net5.0\Uc-2-AddingTwoElement.pdb
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-2-AddingTwoElement\Uc-2-AddingTwoElement\obj\Debug\net5.0\Uc-2-AddingTwoElement.csproj.AssemblyReference.cache
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-2-AddingTwoElement\Uc-2-AddingTwoElement\obj\Debug\net5.0\Uc-2-AddingTwoElement.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-2-AddingTwoElement\Uc-2-AddingTwoElement\obj\Debug\net5.0\Uc-2-AddingTwoElement.AssemblyInfoInputs.cache
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-2-AddingTwoElement\Uc-2-AddingTwoElement\obj\Debug\net5.0\Uc-2-AddingTwoElement.AssemblyInfo.cs
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-2-AddingTwoElement\Uc-2-AddingTwoElement\obj\Debug\net5.0\Uc-2-AddingTwoElement.csproj.CoreCompileInputs.cache
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-2-AddingTwoElement\Uc-2-AddingTwoElement\obj\Debug\net5.0\Uc-2-AddingTwoElement.dll
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-2-AddingTwoElement\Uc-2-AddingTwoElement\obj\Debug\net5.0\refint\Uc-2-AddingTwoElement.dll
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-2-AddingTwoElement\Uc-2-AddingTwoElement\obj\Debug\net5.0\Uc-2-AddingTwoElement.pdb
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-2-AddingTwoElement\Uc-2-AddingTwoElement\obj\Debug\net5.0\Uc-2-AddingTwoElement.genruntimeconfig.cache
+E:\.net\Rpf-120-Day14 LinkListAssingmnet\Uc-2-AddingTwoElement\Uc-2-AddingTwoElement\obj\Debug\net5.0\ref\Uc-2-AddingTwoElement.dll
